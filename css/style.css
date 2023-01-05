@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: #e6e6e6;
+}
+
+#cabecalho{
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+    background-color: #081132;
+}
+
+#logo img{
+    padding: 10px;
+    height: 100px;
+    width: 115px;
+}
+
+#logo h3 span{
+    font-weight: bold;
+    color: #b8040d;
+    font-size: 28px;
+    padding: 2px;
+}
+
+#menu{
+    padding: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    padding: 20px;
+}
+
+a:link, a:visited{
+    color: #fff;
+    padding: 8px 12px;
+}
+
+a:hover{
+    color: #7a0107;
+    background: #fff;
+
+}
